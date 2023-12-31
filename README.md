@@ -1,2 +1,1 @@
-# MASK
-Mobile Armored Solana Kommand
+M.A.S.K. (acronym for "Mobile Armored Solana Kommand")
